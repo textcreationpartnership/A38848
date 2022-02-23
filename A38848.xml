@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Exact account of the ceremonial at the coronation of their Most Excellent Majesties King VVilliam and Queen Mary, the eleventh day of this instant April, 1689</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38848</idno>
+            <idno type="STC">Wing E3565</idno>
+            <idno type="STC">ESTC R8996</idno>
+            <idno type="EEBO-CITATION">13274674</idno>
+            <idno type="OCLC">ocm 13274674</idno>
+            <idno type="VID">98708</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38848)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98708)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 453:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Exact account of the ceremonial at the coronation of their Most Excellent Majesties King VVilliam and Queen Mary, the eleventh day of this instant April, 1689</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edward Jones,</publisher>
+                  <pubPlace>In the Savoy [London] :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary --  II, --  Queen of England, 1662-1694 --  Coronation.</term>
+               <term>William --  III, --  King of England, 1650-1702 --  Coronation.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:98708:1"/>
+            <pb n="1" facs="tcp:98708:1"/>
+            <head>An Exact Account of the CEREMONIAL AT THE CORONATION <hi>Of Their Moſt Excellent MAJESTIES</hi> KING WILLIAM AND QUEEN MARY, The Eleventh Day of this Inſtant <hi>April,</hi> 1689.</head>
+            <byline>Publiſhed by Order of the Duke of <hi>Norfolk,</hi> Earl-Marſhal of <hi>England.</hi>
+            </byline>
+            <p>
+               <seg rend="decorInit">T</seg>HEIR Majeſties being come from <hi>Whitehall</hi> to <hi>Weſtminſter,</hi> (the KING by Water in his Royal Barge, about a quarter paſt 10 of the Clock in the Morn<g ref="char:EOLhyphen"/>ing, and the QUEEN by Land in Her Chair, a little before 11 of the Clock,) the Heralds began forthwith to put the Proceeding in Order in the Court of Requeſts, and after that, to Marſhal the ſeveral Claſſes of the Peers and Peereſſes, the Peers being called over in the Houſe of Lords, and the Peer<g ref="char:EOLhyphen"/>eſſes in the Painted Chamber, where Their Majeſties were Graciouſly Plea<g ref="char:EOLhyphen"/>ſed to be Preſent: And by half an Hour paſt Eleven, Their Majeſties, and the whole Proceeding were conducted into <hi>Weſtminſter-Hall,</hi> at the upper end whereof a Throne being Erected, Their Majeſties repaired thereunto, and took Their Seats under Their States on the inſide of the Table.</p>
+            <p>Whereupon, the Maſter of tile Jewel-Houſe preſented to the Lord High Conſtable, the Sword of State, the Sword <hi>Curtana,</hi> and the two pointed Swords, ſeverally one after another, who delivered them in like manner to the Lord Great Chamberlain, who drew them out of the Scabbards, and laid them on the Table before their Majeſties.</p>
+            <pb n="2" facs="tcp:98708:2"/>
+            <p>Sometime after which, the Dean and Prebendaries of <hi>Weſtminſter</hi> attended with the Quire of that Church, <hi>&amp;c.</hi> brought the <hi>Regalia</hi> in ſolemn Proceſſion from the Collegiate Church there to <hi>Weſtminſter-Hall,</hi> viz. The Dean of <hi>Weſtminſter</hi> the Bible, the Sub-Dean the Chalice, Dr. <hi>Killigrew</hi> the Patin., Dr. <hi>Patrick</hi> the King's Crown, Dr. <hi>Littleton</hi> the Queen's Crown, Dr. <hi>Buſby</hi> the KING's Orb, Dr. <hi>Briavell</hi> the QUEENS Orb, Mr. <hi>Anneſley</hi> the KING's Scepter with the Dove, Mr. <hi>Pelling</hi> the QUEENS Scepter with the Dove, Dr <hi>Delangle</hi> the KING's Scepter with the Croſs, Mr. <hi>Berkley</hi> the QUEENS Scepter with the Croſs, and Mr. <hi>Sartre St. Edward</hi>'s Staff; and after the uſual Reverences, the Dean firſt preſented the Bible to the Lord High Con<g ref="char:EOLhyphen"/>ſtable, who deliver'd it to the Lord Great Chamberlain, by whom it was laid upon the Ta<g ref="char:EOLhyphen"/>ble before Their Majeſties; And the reſt of the <hi>Regalia</hi> being deliver'd ſeverally by the Pre<g ref="char:EOLhyphen"/>bendaries who brought them, to the Dean of <hi>Weſtminſter,</hi> he preſented them in like manner to the Lord High Conſtable, and He to the Lord Great Chamberlain, who laid thoſe that ap<g ref="char:EOLhyphen"/>pertain'd to the KING, before His Majeſty, and thoſe that appertain'd to the QUEEN be<g ref="char:EOLhyphen"/>fore Her Majeſty.</p>
+            <p>Then the Prebendaries being withdrawn to the lower end of the Hall, <hi>Garter</hi> Summoned up the ſeveral Noblemen, who were appointed to carry the ſaid <hi>Regalia</hi> in the Proceeding, and the Lord Great Chamberlain by Their Majeſties directions deliver'd them accordingly.</p>
+            <p>Thus all things being ready, the Heralds Marſhalled the Proceeding in this manner,</p>
+            <p>Firſt Drums and Trumpets; then the Six Clerks in <hi>Chancery,</hi> two a-Breaſt, as all the reſt of the Proceeding went; then Chaplains having Dignities; Sheriffs and Aldermen of <hi>London;</hi> Ma<g ref="char:EOLhyphen"/>ſters in <hi>Chancery;</hi> the Kings <hi>Sollicitor</hi> and <hi>Attourney;</hi> Gentlemen of the Privy Chamber; Judges:</p>
+            <p>Next, Children of the Quire of <hi>Westminſter;</hi> the Sergeant Porter and Sergeant of the Veſtry; Children of the Chapel Royal; the Choir of <hi>Weſtminſter;</hi> Gentlemen of the Chapel Royal; Prebends of <hi>Weſtminſter;</hi> Maſter of the Jewel Houſe; and Six Privy Counſellors not Peers.</p>
+            <p>Two Purſuivants of Arms, Baroneſſes, Barons, Biſhops; Another Purſuivant of Arms, a Vi<g ref="char:EOLhyphen"/>counteſs, Vicounts; two Heralds of Arms, Counteſſes, Earls; One Herald of Arms, A Mar<g ref="char:EOLhyphen"/>chioneſs; Two Heralds of Arms, Ducheſſes, Dukes; The two Provincial Kings of Arms next before the Marquis of <hi>Halifax</hi> Lord Privy Seal, and the Marquis of <hi>Carmarthen,</hi> Lord Preſident of the Council; and next to theſe, the Lord Archbishop of <hi>York.</hi>
+            </p>
+            <p>Then His Royal Highneſs Prince <hi>GEORGE</hi> of <hi>Denmark,</hi> Duke of <hi>Cumberland,</hi> in his Robes of Eſtate with His Train born; followed by two perſons in Robes of Eſtate, (being two Gentlemen of the Privy Chamber, <hi>viz.</hi> the Honorable Sir <hi>Purbeck Temple</hi> and Sir <hi>Edw. Sutton</hi> Bar.) Repreſenting the Dukes of <hi>Aquitain</hi> and <hi>Normandy;</hi> and after them the Lords who bore Their Majeſties Regalia, <hi>viz.</hi> The Earl of <hi>Mancheſter</hi> St. <hi>Edwards</hi> Staff, and the Lord <hi>Grey</hi> of <hi>Ruthin</hi> the Spurs, The Earl of <hi>Clare</hi> the QUEENS Scepter with the Croſs, and the Earl of <hi>Northampton</hi> the KINGS. The Earl of <hi>Shrewsbury</hi> the Sword <hi>Curtana</hi> in the middle between the Earl of <hi>Derby</hi> with the Second Sword, and the Earl of <hi>Pembroke</hi> with the Third Sword. Then <hi>Garter</hi> Principal King of Arms, between the Gentleman-Uſher of the Black Rod, and the Lord Mayor of <hi>Lon<g ref="char:EOLhyphen"/>don.</hi> Then the Lord Great Chamberlain ſingle; the Earl of <hi>Oxford</hi> with the Sword of State in the Scabbard between the Duke of <hi>Ormond</hi> Lord High Conſtable for that Day, and the Duke of <hi>Norfolk</hi> Earl Marſhal. The Earl of <hi>Bedford</hi> with the QUEENS Scepter with the Dove, and the Earl of <hi>Rutland</hi> with the KINGS; the Duke of <hi>Bolton</hi> with the QUEENS Orb, and the Duke of <hi>Grafton</hi> with the KINGS; the Duke of <hi>Somerſet</hi> with the <hi>Queens</hi> Crown, and the Earl of <hi>Devonſhire</hi> Lord High Steward of His Majeſties Houſhold, and Lord High Steward of <hi>England</hi> for that Day, with the <hi>King</hi>'s Crown; The Lord Biſhop of <hi>London</hi> with the Bible, between the Biſhop of <hi>Rocheſter</hi> Dean of <hi>Weſtminſter</hi> with the Chalice, and the Biſhop of <hi>St. Aſaph</hi> with the Patin.</p>
+            <p>Then the KING and QUEENS MAJESTIES Supported by the Biſhops of <hi>Wincheſter</hi> and <hi>Bristol,</hi> under a rich Canopy, having eight Staves carried by ſixteen Barons of the Cinque-Ports. His Majeſties Train born by the Maſter of the Robes aſſiſted by the Lord <hi>Eland,</hi> the Lord <hi>Willoughby,</hi> the Lord <hi>Lanſdowne,</hi> and the Lord <hi>Dunblaine;</hi> And Her Majeſties Train born by the Ducheſs of <hi>Somerſet</hi> aſſiſted by the Lady <hi>Elizabeth Pawlet,</hi> the <hi>Lady Diana Vere,</hi> the Lady <hi>Elizabeth Cavendiſh,</hi> and Lady <hi>Henrietta Hyde.</hi>
+            </p>
+            <p>After the <hi>King</hi> followed the Earl of <hi>Monmouth</hi> Gentleman of the Bedchamber, and two Grooms of the Bedchamber; and after the <hi>Queen</hi> the Counteſs of <hi>Derby</hi> Lady of the Bedchamber, and two of Her Majeſties Women. Laſtly, the Captain of His Majeſties Guard in Waitng bet<g ref="char:EOLhyphen"/>ween the Captain of the Yeomen of the Guard and the Captain of the Band of Gentlemen Penſioners, followed by the Lieutenant, Enſign, and Band of Yeomen of the Guard.</p>
+            <pb n="3" facs="tcp:98708:2"/>
+            <p>The Serjeants at Arms went on each ſide of the <hi>Regalia,</hi> and the Gentlemen Penſioners on each ſide of the Canopy.</p>
+            <p>In this manner Their Majeſties arrayed in their Royal Robes of Crimſon Velvet Furred with Ermine, the KING on the Right Hand with a Crimſon Velvet Cap on His Head, and the QUEEN on the Left with a Rich Circlet of Gold on her Head; all the Nobility in Robes of Crimſon Velvet, with their Caps and Coronets in their Hands; and the reſt who formed the Proceeding being richly clad, or wearing their proper and peculiar Robes or Habits, but all uncover'd, marched on foot upon two Bredths of Blew Cloth, ſpread from the ſteps of the Throne in <hi>Weſtminſter-Hall,</hi> to the ſteps of the Theatre in the Quire of the Church of <hi>Weſtminſter.</hi> The whole paſſage being railed in, and guarded with His Majeſties Horſe and Foot-Guards: And all the Streets, Windows, Balconies and Scaffolds crowded with ſuch an infinite number of Spectators, as was ſcarce ever ſeen before, expreſſing their great Joy by Shouts and univerſal Acclamations.</p>
+            <p>Being entred the Church, and the Nobility and others, all duely placed, Their Majeſties aſcended the Theatre, and repair'd to their Chairs on the South ſide of the <hi>Area</hi> or <hi>Sacrarium,</hi> with Faldſtools before them, for their Private Devotions. Then the Biſhop of <hi>London,</hi> who perform'd this great Solemnity, began the <hi>Recognition,</hi> which being concluded with a mighty ſhout of all the People preſent, Their Majeſties came to the Altar and made their firſt Oblation; which done the Lords who carried the <hi>Regalia,</hi> preſented them ſeverally at the Altar to be there depoſited.</p>
+            <p>Then the Litany was Sung by the Biſhops of St. <hi>Aſaph</hi> and <hi>Bangor;</hi> which ended, the Com<g ref="char:EOLhyphen"/>munion Service began. The Epiſtle taken out of 1 <hi>Pet.</hi> II. 13, 17. was read by the Biſhop of <hi>Carliſle,</hi> and the Goſpel taken out of <hi>St. Matt.</hi> XXII. 16, 22. was read by the Biſhop of <hi>St. Aſaph.</hi> After which followed the Nicene Creed; which ended, the Biſhop of <hi>Salisbury</hi> being ready in the Pulpit, repeated the Lords Prayer, and took his Text 2 <hi>Sam.</hi> XXIII. 3 and 4 <hi>ver. The God of Iſrael, The Rock of Iſrael ſpake to me, He that ruleth over men muſt be juſt, ruling in the fear of God. And he ſhall be as the light of the morning, when the Sun riſeth, even a Morning with<g ref="char:EOLhyphen"/>out Clouds; as the tender graſs ſpringing out of the Earth by clear ſhining after Rain.</hi> Upon which words he made an excellent Diſcourſe, Their Majeſties ſitting in their Chairs on the South ſide the <hi>Area,</hi> and hearing the ſame with great Attention.</p>
+            <p>After Sermon, which laſted juſt half an Hour, Their Majeſties took the New Eſtabliſht Oath; and <hi>Veni Creator</hi> being Sung, and the Holy Oyl Conſecrated, Their Majeſties were conducted to Their Regal Chairs placed on the Theatre (near the Eaſt ſide thereof) that they might be more Conſpicuous to the Members of the Houſe of Commons, (who, with their Speaker, were Seated in the North Croſs,) and were diſrobed of their Crimson Velvet Mantles, and being Solemnly Anointed, were Preſented with the Spurs, and the Sword, (which being Offer'd, was Redeem'd by the Earl of <hi>Portland,</hi>) and Inveſted with the Imperial Palls, and Orbs; and then with the Rings, and Scepters; and at Four of the Clock the Crowns were put upon Their Majeſties Heads by the Lord Biſhop of <hi>London,</hi> aſſiſted by the Lord Biſhop of <hi>Rocheſter,</hi> at ſight whereof all the People ſhouted, the Drums Beat and Trumpets Sounded, and the great Guns at the Tower, and in St. <hi>James</hi>'s Park, &amp;c. were diſcharged, and all the Peers and Peereſſes put on their Co<g ref="char:EOLhyphen"/>ronets.</p>
+            <p>Then the Holy Bible (brought in the Proceſſion for that purpoſe,) was preſented to Their Majeſties; and after the Benediction Their Majeſties vouchſafed to Kiſs the Biſhops. And <hi>Te Deum</hi> being Sung Their Majeſties Aſcended the Throne, and being Inthronized, the Archbiſhop and Biſhops did their Homage to them jointly, and Kiſſed Their Left Checks, and after them Prince <hi>GEORGE,</hi> and the other Temporal Lords in like manner, each of them touching the Crowns upon Their Majeſties Heads, and ſeverally Kiſſing Their Majeſties Cheeks. During which time, the Treasurer of the Houſhold threw about the Coronation Medals, Inſcribed on one ſide <hi>Ne totus abſumatur,</hi> and on the other ſide <hi>Gulielmus &amp; Maria Rex &amp; Regina.</hi>
+            </p>
+            <p>Then began the Communion, Their Majeſties making their Second Oblation, And the KING and QUEEN having received the Holy Sacrament, and the Biſhop having read the Fi<g ref="char:EOLhyphen"/>nal Prayers; Their Majeſties went in State into <hi>St. Edward's Chapel,</hi> where being diveſted of their Imperial Palls, <hi>&amp;c.</hi> and arrayed in their Royal Robes of Purple Velvet; The whole Com<g ref="char:EOLhyphen"/>pany (except the Church of <hi>Weſtminſter</hi>) return'd to <hi>Weſtminſter-Hall</hi> in the ſame Order they came, Their Majeſties wearing their rich Crowns of State, and all the Nobility their Coronets on their Heads. The Spectators all the time continuing their Acclamations of Joy. And being Entred into the Hall were conducted to their ſeveral Tables to Dinner, which were all ready furniſhed before their coming in.</p>
+            <pb n="4" facs="tcp:98708:3"/>
+            <p>The firſt Courſe for Their Majeſties Table was ſerved up with the proper Ceremony, the Lord High Steward betwixt the Lord High Conſtable and the Earl Marſhal preceding it on Horſeback; And before the Second Courſe was ſerved up, <hi>Charles Dymoke</hi> 
+               <abbr>Eſq</abbr> Their Majeſties Champion in Compleat Armour, between the Lord High Conſtable and Earl Marſhal, all on Horſeback, performed the Ceremony of the Challenge after the uſual manner, <hi>York</hi>-Herald Pronouncing it in theſe Words:</p>
+            <p>
+               <q>
+                  <hi>IF any Perſon of what Degree ſoever, High or Low, ſhall Deny or Gainſay our Soveraign Lord and Lady</hi> KING WILLIAM <hi>and</hi> QUEEN MARY, <hi>King and Queen of</hi> England, France <hi>and</hi> Ireland, <hi>Defenders of the Faith, to be Rightful</hi> King <hi>and</hi> Queen <hi>of this Realm of</hi> England, <hi>or that</hi> They <hi>ought not to Enjoy the Imperial <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>own of the Same, Here is their Champion, who ſaith he Lyeth and is a Falſe Traytor <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ing ready in Perſon to Combat with him, and in This Quarrel will adven<g ref="char:EOLhyphen"/>ture his Life againſt him, on what day ſoever he ſhall be appointed.</hi>
+               </q>
+            </p>
+            <p>After which <hi>Garter</hi> (with the Officers of Arms) cryed Largeſs and Proclaimed Their Maje<g ref="char:EOLhyphen"/>ſties Stiles in <hi>Latin, French</hi> and <hi>Engliſh,</hi> after the accuſtomed manner.</p>
+            <p>Dinner being ended, and the whole Solemnity performed with great Splendor and Magnificence, and with all poſſible Expreſſions of an Univerſal Joy; About eight in the Evening the Com<g ref="char:EOLhyphen"/>pany broke up, and Their Majeſties returned to <hi>Whitehall,</hi> the night being concluded with Bonfires and other Illuminations, Ringing of Bells, Drinking Their Majeſties Healths, and all other Tokens of the Higheſt Affections, Loyalty and Satisfaction.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>In the SAVOY: <hi>Printed by</hi> Edward Jones. <hi>MDCLXXXIX.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
